@@ -1,0 +1,31 @@
+body {
+    background-image: url(/img/math.jpeg);
+    background-repeat: none;
+    background-size: cover;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 75px;
+    text-align: center;
+    text-decoration: overline;
+
+}
+
+div {
+    display: ;
+}
+
+ .flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    border: 3px solid black;
+    padding: 50px;
+    background: rgb(88, 201, 68);
+    margin-left: 35vw;
+    margin-top: 10vh;
+    font-size: 20px;
+
+ }
